@@ -7,7 +7,7 @@ As a third-year Computer Science Engineering student at PES University, I have a
 - **Frontend:** HTML, CSS, JavaScript , ReactJs
 - **Backend:** Node.js
 - **Database:** MySQL
-- **Other Tools:** C, Python, Iverilog, PLY Tool
+- **Other Tools:** Java, C, Python, Iverilog, PLY Tool
 
 ## Projects Portfolio
 
