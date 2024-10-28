@@ -5,7 +5,7 @@ As a third-year Computer Science Engineering student at PES University, I have a
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript , ReactJs
-- **Backend:** Node.js
+- **Backend:** MySQL
 - **Database:** MySQL
 - **Other Tools:** Java, C, Python, Iverilog, PLY Tool
 
