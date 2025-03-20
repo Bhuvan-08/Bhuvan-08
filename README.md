@@ -5,9 +5,9 @@ As a third-year Computer Science Engineering student at PES University, I have a
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript , ReactJs
-- **Backend:** MySQL
-- **Database:** MySQL
-- **Other Tools:** Java, C, Python, Iverilog, PLY Tool
+- **Backend:** Node
+- **Database:** MySQL , MongoDB
+- **Programming Language:** Java, C, Python
 
 ## Projects Portfolio
 
@@ -20,13 +20,13 @@ Here’s a glimpse of some other projects I’ve worked on:
 
 ## About Me
 
-I’m currently pursuing my Bachelor of Technology at PES University, Bangalore. With a CGPA of 7.27 and expected graduation in 2026, I am eager to contribute to innovative projects and further my proficiency in programming languages and technologies.
+I’m currently pursuing my Bachelor of Technology at PES University, Bangalore. With a CGPA of 7.56 and expected graduation in 2026, I am eager to contribute to innovative projects and further my proficiency in programming languages and technologies.
 
 Feel free to explore the code, contribute, or reach out if you have any suggestions!
 
 ## 📫 Connect with Me 
 
 - **LinkedIn:** [Bhuvan CV](https://www.linkedin.com/in/bhuvan-cv-02262a2ab)
-- **Email:** bhuvan.cv04@gmail.com
+- **Email:** bhuvancv04@gmail.com
 
 
