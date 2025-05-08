@@ -67,15 +67,6 @@ _Bachelor of Technology in Computer Science_
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvancv&show_icons=true&theme=tokyonight" alt="Bhuvan's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvancv&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhuvan-c-v-02262a2ab)
