@@ -70,7 +70,7 @@ I’m eager to bring my academic learning and practical skills to **real-world A
 
 - 🔗 **LinkedIn**: [linkedin.com/in/bhuvan-c-v-02262a2ab](https://www.linkedin.com/in/bhuvan-c-v-02262a2ab/)
 - 📧 **Email**: bhuvancv04@gmail.com
-- 💻 **GitHub**: [Your GitHub Profile](#)
+- 💻 **GitHub**: [https://github.com/Bhuvan-08/Bhuvan-08/tree/main](https://github.com/Bhuvan-08/Bhuvan-08/tree/main)
 
 ---
 
